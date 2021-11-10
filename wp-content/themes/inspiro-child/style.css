@@ -1,0 +1,7 @@
+#slider .slides, #slider .slides > li {min-height: 300px !important;}
+.navbar.page-with-cover {position: relative;background-color: #111;}
+.slides > li .li-wrap {-webkit-transform: translate(0,-90%);-ms-transform: translate(0,-90%);-o-transform: translate(0,-90%);transform: translate(0,-90%);}
+.page .has-post-cover .entry-cover-image, .single .has-post-cover .entry-cover-image {opacity: 1;}
+#slider .slide-background-overlay {opacity: .1;}
+.section-title {margin-top: 50px;}
+.section-title:after {margin: 18px auto 28px;}
